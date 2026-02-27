@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Ethical Considerations on Hugo Profile</title>
+    <link>http://localhost:1313/tags/ai-ethical-considerations/</link>
+    <description>Recent content in AI Ethical Considerations on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Feb 2026 19:53:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai-ethical-considerations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethics and Confidentiality in Course Evaluations</title>
+      <link>http://localhost:1313/blogs/math/</link>
+      <pubDate>Wed, 25 Feb 2026 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/math/</guid>
+      <description>&lt;h5 id=&#34;ethical-considerations-in-course-feedback-analysis&#34;&gt;Ethical Considerations in Course Feedback Analysis&lt;/h5&gt;&#xA;&lt;p&gt;Data-driven decision-making is central to improving organizational outcomes, and surveys are a common tool for gathering feedback. However, even seemingly straightforward survey analyses can raise ethical questions, especially regarding privacy, fairness, and transparency. In this post, we’ll examine a scenario involving a post-course survey, applying data science ethics concepts to determine the right course of action while maintaining trust and integrity.&lt;/p&gt;&#xA;&lt;h5 id=&#34;the-scenario-anonymous-course-surveys&#34;&gt;The Scenario: Anonymous Course Surveys&lt;/h5&gt;&#xA;&lt;p&gt;At the end of a training program, participants are asked to complete a 10-question survey. Access to the survey is controlled via a secure URL, and students log in with their organization credentials. The survey prompts participants to enter the course name but not their own name. The description emphasizes that all responses are anonymous, yet executive management intends to use the results to decide which courses need redesign or updates.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
